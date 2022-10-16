@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"def",
+				"defs"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"sa",
+				"sayi1"
+			],
+			[
+				"do",
+				"dogumYili"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"not",
+				"not3"
+			],
+			[
+				"no",
+				"not2"
+			],
+			[
+				"sayi",
+				"sayi3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: t",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"nstall",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pakage",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"COntro",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: cmd",
+				"Package Control: Enable Debug Mode"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"Maps to live_server_open_in_browser",
+			"exit",
+			"python -help",
+			"-s help",
+			"print(sayi)",
+			"sayi=5",
+			"git log",
+			"sdasfsa",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\n",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\nimport urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\nimport urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\n",
+			"-h sublime",
+			"-s help",
+			"help",
+			"-h",
+			"gelp",
+			"-help",
+			"help",
+			"clear",
+			"git",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/AppServ/www/Yoksayma ve Kaçış.php",
+		"/C/AppServ/www/TekTırnakÇiftTırnak.php",
+		"/C/AppServ/www/Func and Basic Sqrt.php",
+		"/C/AppServ/www/Zend Version.php",
+		"/C/AppServ/www/ftplogin.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/user/OneDrive/Masaüstü/sfasfasf.html",
+		"/C/AppServ/www/phpinfo.php",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/bolme.py",
+		"/C/AppServ/www/fonksiyon_cek.php",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/Ders - BTK.py",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/Ders 1.py",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/.git/COMMIT_EDITMSG",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/carpma.py",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/PyGit.py",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/Python/OrnekGit.py",
+		"/C/Users/user/OneDrive/Masaüstü/fasfafasf.git",
+		"/C/Users/user/OneDrive/Masaüstü/Ornek.py",
+		"/C/Users/user/OneDrive/Masaüstü/sdasfas.git",
+		"/C/Users/user/Downloads/09/fonksiyon_cek.php",
+		"/C/AppServ/www/Arttırma ve Eksiltme Operatörleri.php",
+		"/C/AppServ/www/Atama ve İşlem Operatörleri.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Installed Packages/Emmet.sublime-package",
+		"/C/AppServ/www/Ornek.html",
+		"/C/AppServ/www/Math Operators.php",
+		"/C/AppServ/www/Değişken.php",
+		"/C/AppServ/www/PHPOrnek.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/PHPTools.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Installed Packages/Package Control.sublime-package",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Installed Packages/0_package_control_loader.sublime-package",
+		"/C/Users/user/OneDrive/Masaüstü/Visual Studio (Projeler)/PHP/Ornek.php",
+		"/C/Users/user/Downloads/Package Control.sublime-package"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ApartmanCSS.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\AppServ\\www\\PHPOrnek.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
